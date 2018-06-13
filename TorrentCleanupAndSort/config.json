@@ -1,0 +1,6 @@
+﻿{
+  "RootFolder": "D:\\",
+  "FileRegex": "\\[.*?\\]",
+  "FolderRegex": "[^a-zA-Z ]",
+  "FileFilter": "*.mkv"
+}
